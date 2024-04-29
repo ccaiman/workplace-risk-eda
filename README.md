@@ -48,6 +48,8 @@ I added slicer buttons to explore changes by region and program.
 
 ![](state-workplace-eda-p1-1.png)
 
+Visit the interactive [demo](https://ccb-apps.shinyapps.io/workplace_risk/ "Workplace Risk").
+
 ### Distribution
 Analysis centered on fatalities because all states have fatality data. Fatality percent was a key feature to describe in the dataset. The geographical distribution in the map suggests that states with low populace tend to have higher fatality percentages. The histogram indicates that the distribution for fatality percent is skewed right with a central tendency of about 0.25%. The overall distribution shape was unchanged when slicing by federal or state programs.
 
